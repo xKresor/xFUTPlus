@@ -9,7 +9,7 @@ You'll need to install those libraries in order to work :
   <li>Microsoft.Web.WebView2.1.0.1245.22</li>
   <li>Autoupdater.NET.Official.1.7.3</li>
 
-**You can unzip them from packages.zip into the xFUTPlus folder.**
+**You can unzip them from packages.rar into the xFUTPlus folder.**
 
 This program modify the memory of FIFA22 process. It also auto-updates itself automatically if it detects a new version being pushed on your site.
 
