@@ -1,4 +1,6 @@
 
+EDIT : I just uploaded the packages zip to this repository, just unzip it in the xFUTPlus folder, so you won't have to manually install every library.
+
 C# program that use Memory64.dll and C++ imports to modify the memory of a process.
 
 You'll need to install those libraries in order to work : 
@@ -32,4 +34,7 @@ You can learn the following from this code :
 6.How to create a new thread for the timer, so it won't interfere with the main thread.
 
 7.How to use different functions of Memory64.dll like aob scanning, write to memory, read memory etc...
+
+
+
 
