@@ -1,21 +1,15 @@
 
-**EDIT : I just uploaded the packages zip to this repository, just unzip it in the xFUTPlus folder, so you won't have to manually install every library.**
 
 C# program that use Memory64.dll and C++ imports to modify the memory of a process.
 
 You'll need to install those libraries in order to work : 
 
-1.Memory64.dll
+  <li>Memory64.dll</li>
+  <li>Siticone.Desktop.UI.2.0.9</li>
+  <li>Microsoft.Web.WebView2.1.0.1245.22</li>
+  <li>Autoupdater.NET.Official.1.7.3</li>
 
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-2.Siticone.Desktop.UI.2.0.9
-
-3.Microsoft.Web.WebView2.1.0.1245.22
-
-4.Autoupdater.NET.Official.1.7.3
-
+*** You can unzip them from packages.zip into the xFUTPlus folder***
 This program modify the memory of FIFA22 process. It also auto-updates itself automatically if it detects a new version being pushed on your site.
 
 I removed all the adresses and bytes for each trainer option. I did this because I don't want to upload a "plug n' play" trainer here on github. If you want to make it work, you can reverse engineer the game by yourself.
@@ -32,7 +26,7 @@ You can learn the following from this code :
 
 4.How to create different type of menus, like a dropdown list, buttons etc..
 
-5.How to search for different "cracking" programs and when it found something, it will BSOD the computer. (**Keep in mind this is just a simple code example, anyone with half of their brain functional will decompile the program just fine and NOP those checks instantly.
+5.How to search for different "cracking" programs and when it found something, it will BSOD the computer. (**Keep in mind this is just a simple code example, anyone with half of their brain functional will decompile the program just fine and NOP those checks instantly.**)
 
 6.How to create a new thread for the timer, so it won't interfere with the main thread.
 
