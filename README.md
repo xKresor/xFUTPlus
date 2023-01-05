@@ -7,6 +7,9 @@ You'll need to install those libraries in order to work :
 
 1.Memory64.dll
 
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
 2.Siticone.Desktop.UI.2.0.9
 
 3.Microsoft.Web.WebView2.1.0.1245.22
