@@ -1,5 +1,5 @@
 
-EDIT : I just uploaded the packages zip to this repository, just unzip it in the xFUTPlus folder, so you won't have to manually install every library.
+**EDIT : I just uploaded the packages zip to this repository, just unzip it in the xFUTPlus folder, so you won't have to manually install every library.**
 
 C# program that use Memory64.dll and C++ imports to modify the memory of a process.
 
