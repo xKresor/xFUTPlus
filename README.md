@@ -15,7 +15,7 @@ This program modify the memory of FIFA22 process. It also auto-updates itself au
 
 
 **I wrote the code to search for the function itself when you patch it in memory, so if the game developer doesn't target that specific function when they pull an update, the hack will work just fine without needing you to update it.
-So if for example, the adress for Player position function is at 0x140001000 offset and the game developer push an update and the adress is changed to 0x1446A1000 FOR EXAMPLE, the hack wills still find it and patch it accordingly**
+So if for example, the adress for Player position function is at 0x140001000 offset and the game developer push an update and the adress is changed to 0x1446A1000 FOR EXAMPLE, the hack will still find it and patch it accordingly**
 
 
 I removed all the adresses and bytes for each trainer option. I did this because I don't want to upload a "plug n' play" trainer here on github. If you want to make it work, you can reverse engineer the game by yourself.
